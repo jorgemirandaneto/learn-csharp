@@ -4,11 +4,9 @@ class TestaAgencia
 {
     static void Main(string[] args)
     {
-        Agencia a1 = new Agencia();
-        a1.numero = 1;
+        Agencia a1 = new Agencia(12);
 
-        Agencia a2 = new Agencia();
-        a2.numero = 2;
+        Agencia a2 = new Agencia(13);
 
         var agencias = new List<Agencia>();
         agencias.Add(a1);
