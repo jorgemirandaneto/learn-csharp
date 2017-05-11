@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TestaAgenciaConta</StartupObject>
+    <StartupObject>TestaMetodosConta</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,7 @@
     <Compile Include="testes\TestaAgenciaConta.cs" />
     <Compile Include="testes\TestaCartaoDeCredito.cs" />
     <Compile Include="testes\TestaCartaoDeCreditoCliente.cs" />
+    <Compile Include="testes\TestaMetodosConta.cs" />
     <Compile Include="testes\TesteAgencia.cs" />
     <Compile Include="testes\TesteCliente.cs" />
   </ItemGroup>
