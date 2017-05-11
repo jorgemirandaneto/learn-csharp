@@ -1,0 +1,7 @@
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\Arrays\bin\Debug\Arrays.exe
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\Arrays\bin\Debug\Arrays.pdb
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\Arrays\obj\Debug\Arrays.exe
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\Arrays\obj\Debug\Arrays.pdb
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\Arrays\bin\Debug\Arrays.exe.CodeAnalysisLog.xml
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\Arrays\bin\Debug\Arrays.exe.lastcodeanalysissucceeded

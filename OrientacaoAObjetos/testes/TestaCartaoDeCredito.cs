@@ -4,12 +4,10 @@ class TestaCartaoDeCredito
 {
     static void Main(string[] args)
     {
-        CartaoDeCredito c1 = new CartaoDeCredito();
-        c1.numero = 111111;
+        CartaoDeCredito c1 = new CartaoDeCredito(111111);
         c1.dataDeValidade = "06/2020";
 
-        CartaoDeCredito c2 = new CartaoDeCredito();
-        c2.numero = 222222;
+        CartaoDeCredito c2 = new CartaoDeCredito(222222);
         c2.dataDeValidade = "06/2020";
 
         var cartoes = new List<CartaoDeCredito>();

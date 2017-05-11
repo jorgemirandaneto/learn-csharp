@@ -4,7 +4,12 @@
     public double saldo;
     public double limite;
     public Agencia agencia;
-    
+
+    public Conta(Agencia agencia)
+    {
+        this.agencia = agencia;
+    }
+
     public void Deposita(double valor)
     {
         this.saldo += valor;

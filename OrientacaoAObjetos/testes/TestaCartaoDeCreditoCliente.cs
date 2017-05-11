@@ -5,17 +5,15 @@ class TestaCartaoDeCreditoCliente
     static void Main(string[] args)
     {
         Cliente c1 = new Cliente();
-        CartaoDeCredito cc = new CartaoDeCredito();
-        CartaoDeCredito cc1 = new CartaoDeCredito();
+        CartaoDeCredito cc = new CartaoDeCredito(1111111);
+        CartaoDeCredito cc1 = new CartaoDeCredito(1111111);
 
         c1.nome = "Jorge";
         c1.codigo = 1;
 
-        cc.numero = 111111;
         cc.dataDeValidade = "06/2020";
         cc.cliente = c1;
 
-        cc1.numero = 222222;
         cc1.dataDeValidade = "07/2018";
         cc1.cliente = c1;
 

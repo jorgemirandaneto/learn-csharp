@@ -4,12 +4,9 @@ class TestaAgenciaConta
 {
     static void Main(string[] args)
     {
-        Agencia a = new Agencia();
-        Conta c = new Conta();
+        Agencia a = new Agencia(1234);
+        Conta c = new Conta(a);
 
-        a.numero = 1;
-
-        c.agencia = a;
         c.numero = 123;
         c.limite = 1000;
         c.saldo = 2000;
