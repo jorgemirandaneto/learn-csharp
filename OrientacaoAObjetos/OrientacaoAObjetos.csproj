@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TestaCartaoDeCreditoCliente</StartupObject>
+    <StartupObject>TestaAgenciaConta</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,14 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Agencia.cs" />
-    <Compile Include="CartaoDeCredito.cs" />
-    <Compile Include="Cliente.cs" />
+    <Compile Include="modelo\Agencia.cs" />
+    <Compile Include="modelo\CartaoDeCredito.cs" />
+    <Compile Include="modelo\Cliente.cs" />
+    <Compile Include="modelo\Conta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestaCartaoDeCredito.cs" />
-    <Compile Include="TestaCartaoDeCreditoCliente.cs" />
-    <Compile Include="TesteAgencia.cs" />
-    <Compile Include="TesteCliente.cs" />
+    <Compile Include="testes\TestaAgenciaConta.cs" />
+    <Compile Include="testes\TestaCartaoDeCredito.cs" />
+    <Compile Include="testes\TestaCartaoDeCreditoCliente.cs" />
+    <Compile Include="testes\TesteAgencia.cs" />
+    <Compile Include="testes\TesteCliente.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
