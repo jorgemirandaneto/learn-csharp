@@ -1,0 +1,9 @@
+c:\users\jorge_note\documents\visual studio 2015\Projects\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe.config
+c:\users\jorge_note\documents\visual studio 2015\Projects\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe
+c:\users\jorge_note\documents\visual studio 2015\Projects\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.pdb
+c:\users\jorge_note\documents\visual studio 2015\Projects\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.csprojResolveAssemblyReference.cache
+c:\users\jorge_note\documents\visual studio 2015\Projects\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.exe
+c:\users\jorge_note\documents\visual studio 2015\Projects\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.pdb
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-c-\learn-c#\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe.config
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-c-\learn-c#\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.exe
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-c-\learn-c#\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.pdb
