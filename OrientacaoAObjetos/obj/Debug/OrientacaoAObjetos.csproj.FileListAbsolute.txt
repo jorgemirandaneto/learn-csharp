@@ -7,3 +7,9 @@ c:\users\jorge_note\documents\visual studio 2015\Projects\OrientacaoAObjetos\Ori
 C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-c-\learn-c#\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe.config
 C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-c-\learn-c#\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.exe
 C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-c-\learn-c#\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.pdb
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe.config
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.exe
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.pdb
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.pdb
+C:\Users\jorge.miranda\Documents\Visual Studio 2015\Projects\learn-csharp\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.csprojResolveAssemblyReference.cache
